@@ -1,4 +1,4 @@
-## Commentaire d'enseignement <i class="fas fa-meh placeholder"></i>
+## Commentaire d'enseignement <i class="fas fa-skull placeholder"></i>
 
 ``` C
 /* Draw a square centered at the specified x,y coordinates, with the
