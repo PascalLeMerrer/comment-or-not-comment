@@ -1,4 +1,4 @@
-## Commentaire de conception <i class="fas fa-smile ok"></i>
+## Commentaire de conception <i class="fas fa-meh whynot"></i>
 
 ``` C
 /* DESIGN
