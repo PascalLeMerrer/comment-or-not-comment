@@ -3,7 +3,6 @@
 Avec l'autorisation de Pascal Le Merrer
 @pascallemerrer
 
-https://github.com/pascallemerrer/comment-or-not-comment/
-
+<small>https://github.com/pascallemerrer/comment-or-not-comment/</small>
 
 <small>taper "s" pour voir les notes de l'orateur</small>
