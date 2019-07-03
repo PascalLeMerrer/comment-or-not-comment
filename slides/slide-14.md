@@ -1,7 +1,7 @@
 ## Commentaire d'enseignement <i class="fas fa-skull ko"></i>
 
 ``` C
-/* Draw a square centered at the specified x,y coordinates, with the
+/* Draw a square centered at a specified x,y coordinates, with the
  * specified rotation angle and size. In order to write a rotated square,
  * we use the trivial fact that the parametric equation:
  *
