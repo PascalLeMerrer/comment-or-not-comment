@@ -3,7 +3,7 @@
 Pascal Le Merrer
 @pascallemerrer
 
-https://github.com/pascallemerrer/comment-or-not-comment/blob/master/slides/slide-01.md
+https://github.com/pascallemerrer/comment-or-not-comment/
 
 
 <small>taper "s" pour voir les notes de l'orateur</small>
