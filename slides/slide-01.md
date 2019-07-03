@@ -1,4 +1,4 @@
 ![](images/comments.jpg)
 ## Comment... or not comment, <br>that is the question
 Pascal Le Merrer @pascallemerrer
-<small>https://github.com/pascallemerrer/comment-or-not-comment/</small> (Autorisé)
+<small>https://github.com/pascallemerrer/comment-or-not-comment/ (Autorisé)</small> 
