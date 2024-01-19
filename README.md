@@ -1,5 +1,5 @@
 Tribute to Pascal Lemerrer qui m'a autorisé à utiliser ses slides.
-AH...et les smileys sont les miens
+AH...et les smileys sont les mienss
 _____________________
 
 [Présentation sur les commentaires dans le code](https://frleduc.github.io/comment-or-not-comment/).
